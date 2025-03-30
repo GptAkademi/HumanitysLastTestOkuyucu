@@ -1,6 +1,6 @@
-# Soru-Cevap Gösterici
+# Humanity's Last Exam Soru-Cevap Gösterici
 
-Bu program, parquet dosyasındaki soru ve cevapları görüntülemek için tasarlanmıştır. Base64 formatında kodlanmış resimleri de gösterebilir.
+Bu program, Humanity's Last Exam testinin sorularını içeren parquet dosyasındaki soru ve cevapları görüntülemek için tasarlanmıştır. Base64 formatında kodlanmış resimleri de gösterebilir.
 
 ## Gereksinimler
 
